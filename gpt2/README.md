@@ -104,4 +104,4 @@ This implementation is based on OpenAI's GPT-2 paper and architecture. Special t
 
 ## Contact
 
-For questions about safety testing or research collaboration, please contact [your contact info].
+For questions about safety testing or research collaboration, please contact Richard Young at ryoung@unlv.edu.
